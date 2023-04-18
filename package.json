@@ -1,8 +1,9 @@
 {
   "name": "@coolizz/eslint-config",
   "version": "1.0.0",
-  "description": "For eslint setting\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[Dand prettier\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[C\u001b[\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D setting",
+  "description": "For eslint and prettier setting",
   "main": ".eslintrc.json",
+  "prettier": ".prettierrc",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -10,16 +11,16 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/your-company/shared-eslint-config.git"
+    "url": "git+https://github.com/CoolizzLuo/coolizz-eslint-config.git"
   },
   "keywords": [
     "eslint",
     "eslint-config"
   ],
   "bugs": {
-    "url": "https://github.com/your-company/shared-eslint-config/issues"
+    "url": "https://github.com/CoolizzLuo/coolizz-eslint-config/issues"
   },
-  "homepage": "https://github.com/your-company/shared-eslint-config#readme",
+  "homepage": "https://github.com/CoolizzLuo/coolizz-eslint-config#readme",
   "devDependencies": {
     "eslint": "^8.38.0",
     "eslint-config-airbnb": "^19.0.4",
