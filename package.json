@@ -1,6 +1,6 @@
 {
   "name": "@coolizz/eslint-config",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "For eslint and prettier setting",
   "main": ".eslintrc.json",
   "prettier": ".prettierrc",
