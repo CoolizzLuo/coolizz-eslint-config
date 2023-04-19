@@ -1,6 +1,6 @@
 {
   "name": "@coolizz/eslint-config",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "For eslint and prettier setting",
   "main": ".eslintrc.json",
   "prettier": ".prettierrc",
@@ -21,7 +21,7 @@
     "url": "https://github.com/CoolizzLuo/coolizz-eslint-config/issues"
   },
   "homepage": "https://github.com/CoolizzLuo/coolizz-eslint-config#readme",
-  "devDependencies": {
+  "dependencies": {
     "eslint": "^8.38.0",
     "eslint-config-airbnb": "^19.0.4",
     "eslint-config-airbnb-typescript": "^17.0.0",
