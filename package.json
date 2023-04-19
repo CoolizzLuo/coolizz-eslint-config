@@ -1,6 +1,6 @@
 {
   "name": "@coolizz/eslint-config",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "For eslint and prettier setting",
   "main": ".eslintrc.json",
   "prettier": ".prettierrc",
@@ -21,7 +21,7 @@
     "url": "https://github.com/CoolizzLuo/coolizz-eslint-config/issues"
   },
   "homepage": "https://github.com/CoolizzLuo/coolizz-eslint-config#readme",
-  "peerDependencies": {
+  "dependencies": {
     "@typescript-eslint/eslint-plugin": "^5.59.0",
     "@typescript-eslint/parser": "^5.59.0",
     "eslint": "^8.38.0",
